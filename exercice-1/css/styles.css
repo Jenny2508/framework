@@ -4,9 +4,11 @@
   .carousel-indicators li {
     width: 70px;
     height: 36px;
-    border: 1px solid #222; }
+    border: 1px solid #222; 
+}
   .carousel-indicators .active {
-    border: 1px solid #ff7474; }
+    border: 1px solid #ff7474; 
+}
   
   @media screen and (min-width: 320px) and (max-width: 767px) {
     .carousel-indicators {
